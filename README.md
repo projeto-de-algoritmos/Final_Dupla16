@@ -15,7 +15,7 @@ Esse notebook tem como objetivo mostrar as conexões dos personagens marvel com 
 
 ## Screenshots
 ![](https://i.ibb.co/P4QYFkS/Screenshot-136.png)
-![](https://i.ibb.co/T8x6bK6/Screenshot-135.png)
+![](https://i.ibb.co/D7PsLtj/Screenshot-137.png)
 ![](https://i.ibb.co/7SPGf64/Screenshot-134.png)
 
 ## Instalação 
