@@ -17,6 +17,7 @@ Esse notebook tem como objetivo mostrar as conexões dos personagens marvel com 
 ![](https://i.ibb.co/P4QYFkS/Screenshot-136.png)
 ![](https://i.ibb.co/D7PsLtj/Screenshot-137.png)
 ![](https://i.ibb.co/7SPGf64/Screenshot-134.png)
+![](https://i.ibb.co/q0gMb36/Screenshot-138.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
